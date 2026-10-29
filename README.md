@@ -14,20 +14,8 @@ This is a tool to explore your Mihon/Tachiyomi backup, optionally edit entries a
 1. Clone this repo
 2. To launch you'll need a webserver due to CORS policy.
    - If you have Node.js or Python installed, `launch.bat` will launch one of their webservers and open the page.
+   - This fork can also be run on [Termux](https://github.com/termux/termux-app) by executing `launch.sh` will launch your browser and open the page.
 3. Load your own `.tachibk`, `.proto.gz` or its JSON-decoded version. The demo data provided is in the latter format.
-
-## Contributing
-
-Check [CONTRIBUTING.md](https://github.com/Animeboynz/Mihon-Backup-Viewer/blob/main/CONTRIBUTING.md)
-
-<div align="center">
-
-Thank you to all the people who have contributed!
-
-<a href="https://github.com/Animeboynz/Mihon-Backup-Viewer/graphs/contributors">
-    <img src="https://contrib.rocks/image?repo=Animeboynz/Mihon-Backup-Viewer" alt="Contributors" title="Contributors" width="200"/>
-</a>
-</div>
 
 ## Credits
 
